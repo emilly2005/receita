@@ -70,7 +70,7 @@ table {
     padding: 10px;
 }
 
-h2, {
+h2 {
     color: var(--Brown-800);
 }
 
@@ -85,4 +85,8 @@ li {
 }
 h1,strong {
     color: var(--Stone-900);
+}
+
+.g {
+    color: var(--Stone-600);
 }
